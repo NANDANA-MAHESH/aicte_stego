@@ -1,8 +1,8 @@
 # Secure data hiding in images using steganography​
 ## Project Overview  
-This project implements **image steganography**, a technique for **hiding secret messages inside images** using Python. The hidden message can be retrieved only using the correct **passcode**.  
+This project implements image steganography, a technique for hiding secret messages inside images using Python. The hidden message can be retrieved only using the correct passcode.  
 
-This technique allows for **covert communication**, making the message invisible to the human eye while ensuring **data integrity**.  
+This technique allows for covert communication, making the message invisible to the human eye while ensuring data integrity.  
 
 ## How It Works  
 1. **Encryption (Hiding a Message)**  
